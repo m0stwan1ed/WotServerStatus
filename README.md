@@ -1,8 +1,8 @@
 ## WoTServerStatus
 
 ### Zespół:
-- Vladyslav Mostovych, 187516, KrDZIs3013Io
-- Dawid Wedman, 188618, KrDZIs3013Io
+- Vladyslav Mostovych, 187516, KrDZIs2013Io
+- Dawid Wedman, 188618, KrDZIs2013Io
 
 ### Opis aplikacji
 
