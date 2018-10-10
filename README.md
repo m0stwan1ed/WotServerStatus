@@ -33,7 +33,7 @@ Link - [icmp4j]
 ### Linki
 - Strona internetowa firmy  - [WargamingCom]
 - Strona gry - [worldoftanksEu]
-- Dokumentacja do projektuj - [DokumentacjaPL]
+- Dokumentacja do projektuj - [Dokumentacja]
 
 [WargamingCom]: <https://wargaming.com/en/>
 [worldoftanksEu]: <https://worldoftanks.eu>
